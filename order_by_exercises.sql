@@ -22,4 +22,4 @@ WHERE last_name
 ORDER BY emp_no DESC;
 
 # SELECT * FROM employees WHERE last_name LIKE '%q%';
-SELECT * FROM employees WHERE last_name LIKE '%q%' AND NOT last_name LIKE '%qu%';
+# SELECT * FROM employees WHERE last_name LIKE '%q%' AND NOT last_name LIKE '%qu%';
